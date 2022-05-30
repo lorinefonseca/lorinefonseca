@@ -1,16 +1,14 @@
-### Hi there 👋
+<h3> Olá, mundo! Eu sou a Lorine Fonseca! 👋 </h3>
 
-<!--
-**lorinefonseca/lorinefonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente eu trabalho no Grupo IOB. <br> 
+Eu estou aprendendo Linguagens de Front-End, sendo estas: HTML, CSS e Javascript. <br> 
+Sempre tive interesse pela área da programação e do design, por esta razão, me afixei por Front-End e tenho vontade de aprender cada vez mais. <br> 
 
-Here are some ideas to get you started:
+<div align="center">
+<img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorinefonseca&layout=compact&langs_count=7&theme=moltack"/>
+</div> <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" style="display: flex; justify-content: space-around; align-items: center;">
+<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div> 
